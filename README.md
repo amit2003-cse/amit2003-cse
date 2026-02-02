@@ -1,12 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=300&section=header&text=Amit%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20AI-Native%20Apps%20%26%20RAG%20Systems&descAlignY=51&descAlign=62" />
-  
-  <br/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;C%2B%2B+%26+Data+Science;Building+Local+RAG+Systems" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hey 👋, I'm Amit</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Building+RAG+Systems;C%2B%2B+%26+Data+Science+Student" />
+</p>
 
 <div align="center">
   <a href="https://linkedin.com/in/amit-cse" target="_blank">
